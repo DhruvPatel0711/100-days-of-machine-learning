@@ -145,4 +145,4 @@ Full sklearn Pipeline with ColumnTransformer. MLflow experiment tracking. Deploy
 
 ---
 
-*Updated weekly. Last update: Week 0 — Setting up.*
+*Updated weekly. Last update: Week 1.*
