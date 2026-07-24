@@ -1,20 +1,20 @@
 # 100 Days of ML
 
-> A structured 14-week machine learning journey documented publicly â€” every concept learned, every project built, every week posted on LinkedIn.
+> A structured 14-week machine learning journey documented publicly — every concept learned, every project built, every week posted on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhruvpatel0711)
 
 ## The Roadmap
 
 ```
-Phase 0  â†’  Orientation + SQL Basics          (Week 1)
-Phase 1  â†’  Linear Regression + Ridge/Lasso   (Weeks 2â€“3)
-Phase 2  â†’  Classification + SVM + Metrics    (Weeks 4â€“6)
-Phase 3  â†’  Model Behavior                    (Week 7)
-Phase 4  â†’  Tree Models + XGBoost             (Weeks 8â€“10)
-Phase 5  â†’  Unsupervised + PCA                (Weeks 11â€“12)
-Phase 6  â†’  Pipelines + Deployment            (Week 13)
-Phase 7  â†’  Consolidation                     (Week 14)
+Phase 0  →  Orientation + SQL Basics          (Week 1)
+Phase 1  →  Linear Regression + Ridge/Lasso   (Weeks 2–3)
+Phase 2  →  Classification + SVM + Metrics    (Weeks 4–6)
+Phase 3  →  Model Behavior                    (Week 7)
+Phase 4  →  Tree Models + XGBoost             (Weeks 8–10)
+Phase 5  →  Unsupervised + PCA                (Weeks 11–12)
+Phase 6  →  Pipelines + Deployment            (Week 13)
+Phase 7  →  Consolidation                     (Week 14)
 ```
 
 ---
@@ -23,59 +23,59 @@ Phase 7  â†’  Consolidation                     (Week 14)
 
 | Week | Phase | Topic | Project | Status |
 |---|---|---|---|---|
-| 1 | 0 | Orientation + SQL | SQL queries in Jupyter | âœ… |
-| 2 | 1 | Linear Regression | House Price Prediction | ðŸ”„ |
-| 3 | 1 | Ridge + Lasso | Medical Cost Predictor â­ | ðŸ”œ |
-| 4 | 2 | Logistic Regression | Titanic Survival | ðŸ”œ |
-| 5 | 2 | SVM + Evaluation | Breast Cancer Detection | ðŸ”œ |
-| 6 | 2 | Classification Pipeline | Credit Card Fraud Detection â­ | ðŸ”œ |
-| 7 | 3 | Model Behavior | Overfitting Demonstration | ðŸ”œ |
-| 8 | 4 | Decision Trees | Heart Disease Prediction | ðŸ”œ |
-| 9 | 4 | Random Forests | Employee Attrition | ðŸ”œ |
-| 10 | 4 | XGBoost | Flight Price Prediction â­ | ðŸ”œ |
-| 11 | 5 | kNN | Wine Quality Classifier | ðŸ”œ |
-| 12 | 5 | Clustering + PCA | Customer Segmentation â­ | ðŸ”œ |
-| 13 | 6 | Pipelines + Deploy | End-to-End Pipeline + Streamlit â­ | ðŸ”œ |
-| 14 | 7 | Consolidation | Cleanup + Resume + Day 100 Post | ðŸ”œ |
+| 1 | 0 | Orientation + SQL | SQL queries in Jupyter | ✅ |
+| 2 | 1 | Linear Regression | House Price Prediction | 🔄 |
+| 3 | 1 | Ridge + Lasso | Medical Cost Predictor ⭐ | 🔜 |
+| 4 | 2 | Logistic Regression | Titanic Survival | 🔜 |
+| 5 | 2 | SVM + Evaluation | Breast Cancer Detection | 🔜 |
+| 6 | 2 | Classification Pipeline | Credit Card Fraud Detection ⭐ | 🔜 |
+| 7 | 3 | Model Behavior | Overfitting Demonstration | 🔜 |
+| 8 | 4 | Decision Trees | Heart Disease Prediction | 🔜 |
+| 9 | 4 | Random Forests | Employee Attrition | 🔜 |
+| 10 | 4 | XGBoost | Flight Price Prediction ⭐ | 🔜 |
+| 11 | 5 | kNN | Wine Quality Classifier | 🔜 |
+| 12 | 5 | Clustering + PCA | Customer Segmentation ⭐ | 🔜 |
+| 13 | 6 | Pipelines + Deploy | End-to-End Pipeline + Streamlit ⭐ | 🔜 |
+| 14 | 7 | Consolidation | Cleanup + Resume + Day 100 Post | 🔜 |
 
-> â­ = Portfolio piece | ðŸ”œ = Upcoming | ðŸ”„ = In Progress | âœ… = Done
+> ⭐ = Portfolio piece | 🔜 = Upcoming | 🔄 = In Progress | ✅ = Done
 
 ---
 
 ## Portfolio Projects (5 Core)
 
-### 1. Medical Cost Predictor â€” Week 3
+### 1. Medical Cost Predictor — Week 3
 Linear vs Ridge vs Lasso on medical insurance data. Coefficient shrinkage visualised. Shows which features Lasso eliminates.
 `Python` `scikit-learn` `pandas` `matplotlib`
-â†’ [View Project](projects/02-medical-cost/)
+→ [View Project](projects/02-medical-cost/)
 
 ---
 
-### 2. Credit Card Fraud Detection â€” Week 6
+### 2. Credit Card Fraud Detection — Week 6
 Imbalanced dataset. Logistic regression + SVM benchmarked. Precision-recall focus over accuracy. Full metric comparison.
 `Python` `scikit-learn` `seaborn` `XGBoost`
-â†’ [View Project](projects/05-fraud-detection/)
+→ [View Project](projects/05-fraud-detection/)
 
 ---
 
-### 3. Flight Price Prediction â€” Week 10
+### 3. Flight Price Prediction — Week 10
 XGBoost vs Random Forest benchmark. GridSearchCV tuning. Feature importance charts.
 `Python` `XGBoost` `scikit-learn` `pandas`
-â†’ [View Project](projects/09-flight-price/)
+→ [View Project](projects/09-flight-price/)
 
 ---
 
-### 4. Customer Segmentation â€” Week 12
+### 4. Customer Segmentation — Week 12
 k-Means clustering. Elbow method. PCA visualisation. Business interpretation per segment.
 `Python` `scikit-learn` `matplotlib` `seaborn`
-â†’ [View Project](projects/11-customer-segmentation/)
+→ [View Project](projects/11-customer-segmentation/)
 
 ---
 
-### 5. End-to-End ML Pipeline + Streamlit â€” Week 13
+### 5. End-to-End ML Pipeline + Streamlit — Week 13
 Full sklearn Pipeline with ColumnTransformer. MLflow experiment tracking. Deployed on Streamlit.
 `Python` `scikit-learn` `MLflow` `Streamlit`
-â†’ [View Project](projects/12-end-to-end-pipeline/) | [Live Demo](#)
+→ [View Project](projects/12-end-to-end-pipeline/) | [Live Demo](#)
 
 ---
 
@@ -109,29 +109,29 @@ Full sklearn Pipeline with ColumnTransformer. MLflow experiment tracking. Deploy
 
 ```
 100-days-of-ml/
-â”œâ”€â”€ README.md
-â”œâ”€â”€ logs/
-â”‚   â””â”€â”€ weekly-log-template.md     â† Weekly notes template
-â”œâ”€â”€ week-01/
-â”‚   â”œâ”€â”€ notes.md                   â† Concepts learned
-â”‚   â”œâ”€â”€ notebook.ipynb             â† Code
-â”‚   â””â”€â”€ post-log.md                â† LinkedIn post link + engagement
-â”œâ”€â”€ week-02/
-â”‚   â””â”€â”€ ...
-â”œâ”€â”€ projects/
-â”‚   â”œâ”€â”€ 01-house-price/
-â”‚   â”œâ”€â”€ 02-medical-cost/           â† â­ Portfolio
-â”‚   â”œâ”€â”€ 03-titanic/
-â”‚   â”œâ”€â”€ 04-breast-cancer/
-â”‚   â”œâ”€â”€ 05-fraud-detection/        â† â­ Portfolio
-â”‚   â”œâ”€â”€ 06-overfitting-demo/
-â”‚   â”œâ”€â”€ 07-heart-disease/
-â”‚   â”œâ”€â”€ 08-employee-attrition/
-â”‚   â”œâ”€â”€ 09-flight-price/           â† â­ Portfolio
-â”‚   â”œâ”€â”€ 10-wine-quality/
-â”‚   â”œâ”€â”€ 11-customer-segmentation/  â† â­ Portfolio
-â”‚   â””â”€â”€ 12-end-to-end-pipeline/    â† â­ Portfolio (deployed)
-â””â”€â”€ requirements.txt
+├── README.md
+├── logs/
+│   └── weekly-log-template.md     ← Weekly notes template
+├── week-01/
+│   ├── notes.md                   ← Concepts learned
+│   ├── notebook.ipynb             ← Code
+│   └── post-log.md                ← LinkedIn post link + engagement
+├── week-02/
+│   └── ...
+├── projects/
+│   ├── 01-house-price/
+│   ├── 02-medical-cost/           ← ⭐ Portfolio
+│   ├── 03-titanic/
+│   ├── 04-breast-cancer/
+│   ├── 05-fraud-detection/        ← ⭐ Portfolio
+│   ├── 06-overfitting-demo/
+│   ├── 07-heart-disease/
+│   ├── 08-employee-attrition/
+│   ├── 09-flight-price/           ← ⭐ Portfolio
+│   ├── 10-wine-quality/
+│   ├── 11-customer-segmentation/  ← ⭐ Portfolio
+│   └── 12-end-to-end-pipeline/    ← ⭐ Portfolio (deployed)
+└── requirements.txt
 ```
 ---
 
@@ -145,4 +145,4 @@ Full sklearn Pipeline with ColumnTransformer. MLflow experiment tracking. Deploy
 
 ---
 
-*Updated weekly. Last update: Week 2 â€” In Progress.*
+*Updated weekly. Last update: Week 2 — In Progress.*
