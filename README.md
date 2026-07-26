@@ -24,7 +24,7 @@ Phase 7  →  Consolidation                     (Week 14)
 | Week | Phase | Topic | Project | Status |
 |---|---|---|---|---|
 | 1 | 0 | Orientation + SQL | SQL queries in Jupyter | ✅ |
-| 2 | 1 | Linear Regression | House Price Prediction | 🔄 |
+| 2 | 1 | Linear Regression | House Price Prediction | ✅ |
 | 3 | 1 | Ridge + Lasso | Medical Cost Predictor ⭐ | 🔜 |
 | 4 | 2 | Logistic Regression | Titanic Survival | 🔜 |
 | 5 | 2 | SVM + Evaluation | Breast Cancer Detection | 🔜 |
@@ -145,4 +145,4 @@ Full sklearn Pipeline with ColumnTransformer. MLflow experiment tracking. Deploy
 
 ---
 
-*Updated weekly. Last update: Week 2 — In Progress.*
+*Updated weekly. Last update: Week 2.*
