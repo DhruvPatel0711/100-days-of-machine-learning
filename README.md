@@ -29,7 +29,7 @@ Phase 7  →  Consolidation                     (Week 14)
 | 4 | 2 | Logistic Regression | Titanic Survival | ✅ |
 | 5 | 2 | SVM + Evaluation | Breast Cancer Detection | ✅ |
 | 6 | 2 | Classification Pipeline | Credit Card Fraud Detection ⭐ | ✅ |
-| 7 | 3 | Model Behavior | Overfitting Demonstration | 🔜 |
+| 7 | 3 | Model Behavior | Overfitting Demonstration | 🔄 |
 | 8 | 4 | Decision Trees | Heart Disease Prediction | 🔜 |
 | 9 | 4 | Random Forests | Employee Attrition | 🔜 |
 | 10 | 4 | XGBoost | Flight Price Prediction ⭐ | 🔜 |
