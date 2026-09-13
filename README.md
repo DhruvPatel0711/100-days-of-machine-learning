@@ -31,7 +31,7 @@ Phase 7  →  Consolidation                     (Week 14)
 | 6 | 2 | Classification Pipeline | Credit Card Fraud Detection ⭐ | ✅ |
 | 7 | 3 | Model Behavior | Overfitting Demonstration | ✅ |
 | 8 | 4 | Decision Trees | Heart Disease Prediction | ✅ |
-| 9 | 4 | Random Forests | Employee Attrition | 🔄 |
+| 9 | 4 | Random Forests | Employee Attrition | ✅ |
 | 10 | 4 | XGBoost | Flight Price Prediction ⭐ | 🔜 |
 | 11 | 5 | kNN | Wine Quality Classifier | 🔜 |
 | 12 | 5 | Clustering + PCA | Customer Segmentation ⭐ | 🔜 |
@@ -145,4 +145,4 @@ Full sklearn Pipeline with ColumnTransformer. MLflow experiment tracking. Deploy
 
 ---
 
-*Updated weekly. Last update: Week 8.*
+*Updated weekly. Last update: Week 9.*
