@@ -35,7 +35,7 @@ Phase 7  →  Consolidation                     (Week 14)
 | 10 | 4 | XGBoost | Flight Price Prediction ⭐ | ✅ |
 | 11 | 5 | kNN | Wine Quality Classifier | ✅ |
 | 12 | 5 | Clustering + PCA | Customer Segmentation ⭐ | ✅ |
-| 13 | 6 | Pipelines + Deploy | End-to-End Pipeline + Streamlit ⭐ | 🔜 |
+| 13 | 6 | Pipelines + Deploy | End-to-End Pipeline + Streamlit ⭐ | 🔄 |
 | 14 | 7 | Consolidation | Cleanup + Resume + Day 100 Post | 🔜 |
 
 > ⭐ = Portfolio piece | 🔜 = Upcoming | 🔄 = In Progress | ✅ = Done
